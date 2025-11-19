@@ -2,3 +2,7 @@
 	path = Peking_1
 	url = ./Peking_1
 	datalad-id = 720a614d-56f2-493f-ac94-ab97c597da99
+[submodule "Peking_3"]
+	path = Peking_3
+	url = ./Peking_3
+	datalad-id = ac2be044-f472-4c5f-8e87-fe58c5ccacad
